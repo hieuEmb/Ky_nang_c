@@ -1,0 +1,34 @@
+Thư viện “math.h”
+No. Phương thức Mô tả
+1. ceil(number)
+làm tròn lên một số đã cho. Nó trả về giá trị số nguyên lớn hơn hoặc bằng với số đã cho.
+2. floor(number)
+làm tròn xuống một số đã cho. Nó trả về giá trị số nguyên nhỏ hơn hoặc bằng số đã cho.
+3. sqrt(number) trả về căn bậc hai của số đã cho.
+4. pow(base, exponent) trả về số mũ của số đã cho.
+5. abs(number) trả về giá trị tuyệt đối của số đã cho số nguyên.
+fabs(number) trả về giá trị tuyệt đối của số đã cho số thực.
+
+abs(x) Trả về giá trị tuyệt đối của x
+acos(x) Trả về arccosine của x, tính bằng radian
+asin(x) Trả về arcsine của x, tính bằng radian
+atan(x) Trả về arctang của x, tính bằng radian
+cbrt(x) Trả về căn bậc ba của x
+ceil(x) Trả về giá trị của x được làm tròn lên số nguyên gần nhất
+cos(x) Trả về cosin của x, tính bằng radian
+cosh(x) Trả về cosin hyperbol của x, tính bằng radian
+exp(x) Trả về giá trị của Ex
+expm1(x) Trả về ex -1
+fabs(x) Trả về giá trị tuyệt đối của x động
+fdim(x, y) Trả về chênh lệch dương giữa x và y
+Floor(x) Trả về giá trị của x được làm tròn xuống số nguyên gần nhất
+hypot(x, y) Trả về sqrt(x2 +y2) mà không bị tràn hoặc tràn trung gian
+fma(x, y, z) Trả về x*y+z mà không làm mất độ chính xác
+fmax(x, y) Trả về giá trị cao nhất của x và y nổi
+fmin(x, y) Trả về giá trị thấp nhất của x và y nổi
+fmod(x, y) Trả về phần dư dấu phẩy động của x/y
+pow(x, y) Trả về giá trị của x lũy thừa của y
+sin(x) Trả về sin của x (x tính bằng radian)
+sinh(x) Trả về sin hyperbol của một giá trị kép
+tan(x) Trả về tang của một góc
+tanh(x) Trả về tang hyperbol của một giá trị kép

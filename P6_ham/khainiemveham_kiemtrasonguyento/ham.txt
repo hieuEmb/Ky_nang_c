@@ -1,0 +1,16 @@
+Hàm trong lập trình C
+Một hàm là một nhóm các câu lệnh cùng nhau thực hiện một nhiệm vụ. Mỗi chương trình C có ít nhất một hàm, là hàm main().
+Cấu trúc của một hàm:
+return_type function_name(parameter list) {
+
+    // body of the function
+
+}
+
+Kiểu trả về: Một hàm có thể trả về một giá trị. Các return_type là kiểu dữ liệu của giá trị hàm trả về. Một số hàm thực hiện các hoạt động mong muốn mà không trả về một giá trị. Trong trường hợp này, return_type là từ khóa void.
+Tên hàm: Đây là tên thực của hàm.
+Tham số: Một tham số giống như một trình giữ chỗ. Khi một hàm được gọi, bạn chuyển một giá trị cho tham số. Giá trị này được gọi là tham số hoặc đối số thực tế. Danh sách tham số tham chiếu đến loại, thứ tự và số tham số của hàm. Các tham số là tùy chọn; có nghĩa là, một hàm có thể không chứa tham số.
+Thân hàm: Phần thân hàm chứa một tập hợp các câu lệnh xác định chức năng của hàm.
+
+Bài tập:
+Viết chương trình lập trình c sử dụng hàm để nhập vào số n, kiểm tra n có phải là số nguyên tố hay không và xuất kết quả ra màn hình?

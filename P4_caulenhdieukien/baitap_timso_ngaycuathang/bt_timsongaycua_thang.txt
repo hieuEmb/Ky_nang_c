@@ -1,0 +1,11 @@
+Viết chương trình nhập tháng, năm.
+Hãy tìm số ngày trong tháng đó và xuất ra màn hình.
+Lưu ý: tháng 2 của năm nhuận có 29 ngày;
+tháng 2 của năm không nhuận có 28 ngày;
+các tháng: 1, 3, 5, 7, 8, 10, 12 có 31 ngày;
+các tháng: 4, 6, 9, 11 có 30 ngày.
+ 
+	Cách kiểm tra năm nhuận:
+
+		Chia hết cho 400
+		Hoặc chia hết cho 4 và không chia hết cho 100

@@ -1,0 +1,13 @@
+Truyền tham số mảng
+Mảng có thể được truyền như tham số trong hàm
+Các tham số chính thức là một con trỏ như sau:
+return_type function(type *arrayname)
+Các tham số chính thức là một mảng đã định kích cỡ như sau:
+return_type function(type arrayname[size])
+Các tham số chính thức là một mảng chưa định kích cỡ như sau:
+return_type function(type arrayname[])
+
+Bài tập: Tính trung bình cộng trong mảng một chiều
+Nhập vào mảng 1 chiều gồm n  phần tử:
+Tính trung bình cộng các phần tử trong mảng;
+Tính trung bình cộng các số dương trong mảng;

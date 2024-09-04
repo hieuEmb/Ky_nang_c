@@ -1,0 +1,19 @@
+Bài toán: 
+
+Nhập vào hai số nguyên a, b, tìm ước số chung lớn nhất giữa 2 số a, b và xuất kết quả ra màn hình.
+Thuật toán tìm ước số chung lớn nhất:
+TH 1: Nếu a == 0 hoặc b == 0 thì USQLN là (a+b)
+Ví dụ: a = 0; b = 5; → USCLN = 5
+TH 2: Nếu a!=0 và b!=0
+Lặp:
+Nếu a!=b
+Nếu a>b →a = a -b
+Ngược lại nếu b>a → b = b – a
+Trả về a
+Ví dụ: a = 6; b = 2;
+Lặp:
+L0: a=6 b=2
+L1: a=6-2=4 b=2
+L2: a=4-2=2 b=2
+L3:  a==b → 2
+Trả về: USCLN → 2

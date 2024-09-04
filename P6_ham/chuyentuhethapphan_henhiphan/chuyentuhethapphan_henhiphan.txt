@@ -1,0 +1,4 @@
+Đề bài
+Bài tập: Nhập vào số n (n>=0), chuyển đổi số n từ hệ số thập phân sang hệ số nhị phị và xuất kết quả ra màn hình.
+
+https://www.wikihow.vn/%C4%90%E1%BB%95i-t%E1%BB%AB-S%E1%BB%91-Th%E1%BA%ADp-ph%C3%A2n-sang-Nh%E1%BB%8B-ph%C3%A2n

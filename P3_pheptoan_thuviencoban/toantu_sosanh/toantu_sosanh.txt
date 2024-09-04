@@ -1,0 +1,10 @@
+Toán tử Ý nghĩa Ví dụ
+== so sánh bằng 4 == 3 cho kết quả là False
+> so sánh lớn hơn 2 > 1 cho kết quả là True
+< so sánh nhỏ hơn 9 < 3 cho kết quả là False
+!= so sánh khác 6 != 9 cho kết quả là True
+>= lớn hơn hoặc bằng 5 >=2 cho kết quả là True
+<= nhỏ hơn hoặc bằng 2 <= 0 cho kết quả là False
+Kết quả của việc so sánh 
+0 → False
+1 (hoặc khác 0) → True

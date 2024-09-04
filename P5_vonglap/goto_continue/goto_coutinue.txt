@@ -1,0 +1,8 @@
+Lệnh goto;
+Câu lệnh goto trong C cung cấp một bước nhảy vô điều kiện từ ‘goto’ đến một câu lệnh có nhãn trong cùng một hàm.
+Lệnh continue;
+Lệnh continue là lệnh mà khi gặp nó thì chương trình sẽ bỏ qua những câu lệnh phía dưới nó(trong cùng 1 câu lệnh lặp) để thực hiện 1 vòng lặp mới.
+Cú pháp:  continue;
+
+Ví dụ:
+Viết chương trình nhập vào số n (n>0), và xuất ra màn hình các số lẻ từ 1 đến n, trong đó có sử dụng lệnh goto và continue;

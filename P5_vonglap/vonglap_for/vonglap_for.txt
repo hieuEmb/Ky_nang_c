@@ -1,0 +1,24 @@
+for (expr1; expr2; expr3) { 
+statement 
+}
+Trong đó:
+
+    Biểu thức 1: biểu thức khởi đầu.
+
+    Biểu thức 2: biểu thức điều kiện – điều kiện lặp.
+
+    Biểu thức 3: bước nhảy – thường dùng với ý nghĩa là thay đổi bước nhảy.
+
+
+Cả 3 biểu thức này đều là tuỳ chọn, chúng có thể vắng mặt trong câu lệnh cụ thể nhưng các dấu chấm phẩy vẫn phải có.
+Sự hoạt động của vòng lặp for:
+
+
+Bước 1: Thực hiện biểu thức khởi đầu – Biểu thức 1.
+Bước 2: Tính giá trị biểu thức 2 để xác định điều kiện lặp.
+– Nếu biểu thức 2 có giá trị ‘sai’ (==0) thì ra khỏi vòng lặp.
+– Ngược lại, nếu biểu thức có giá trị ‘đúng’ (khác 0) thì chuyển tới bước 3.
+Bước 3: Thực hiện khối lệnh trong thân của for, chuyển tới bước 4.
+Bước 4: Thực hiện biểu thức 3, rồi quay về bước 2.
+Ví dụ 1: Xuất các số từ 0 đến 9 ra màn hình.
+Xuất các con số từ 0 đến n ra màn hình (n nhập từ bàn phím).

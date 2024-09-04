@@ -1,0 +1,8 @@
+CÁCH KHAI BÁO:
+// Khai báo mảng 2 chiều chỉ định các phần tử.
+// 3 hàng & 5 cột
+int a[3][5] = { { 1, 2, 3, 4, 5 }, { 0, 3, 4, 5, 7 }, { 0, 3, 4, 0, 0 } };
+// Khai báo một mảng 2 chiều, // Chỉ định số dòng, số cột.
+int a[3][5];
+
+Bài tập: Nhập vào mảng 2 chiều có kích thước m x n. Hiển thị ma trận vừa nhập ra màn hình.

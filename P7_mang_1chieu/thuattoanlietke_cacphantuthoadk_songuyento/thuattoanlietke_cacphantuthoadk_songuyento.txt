@@ -1,0 +1,1 @@
+Bài 1: Hãy liệt kê các phần tử chẵn và chia hết cho 3 trong mảng 1 chiều các số nguyên.

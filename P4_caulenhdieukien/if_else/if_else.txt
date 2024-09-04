@@ -1,0 +1,25 @@
+Câu lệnh điều kiện if else trong lập trình C
+Cấu trúc 1:
+if (điều_kiện) {
+// đoạn code được thực hiện nếu điều kiện đúng
+}
+———————————————
+Cấu trúc 2:
+if (điều_kiện) {
+// đoạn code được thực hiện nếu điều kiện đúng
+} else {
+// đoạn code được thực hiện nếu điều kiện sai
+}
+——————————————
+Cấu trúc 3:
+if (điều_kiện_1) {
+// đoạn code được thực hiện nếu điều kiện 1 đúng
+} else if (điều_kiện_2) {
+// đoạn code được thực hiện nếu điều kiện 1 sai và điều kiện 2 đúng
+} else {
+// đoạn code được thực hiện nếu điều kiện 1 sai và điều kiện 2 sai
+}
+
+Ví dụ:
+– Nhập vào một con số và cho biết nó có nhỏ hơn 20?
+– Nhập vào số và xuất ra nó là số chẵn số lẻ?

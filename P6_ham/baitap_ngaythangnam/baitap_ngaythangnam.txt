@@ -1,0 +1,9 @@
+Viết chương trình lập trình C nhập ngày, tháng, năm. 
+
+a. Hãy cho biết tháng đó có bao nhiêu ngày 
+
+b. Tính xem ngày đó là ngày thứ bao nhiêu trong năm
+
+c. Tìm ngày trước ngày vừa nhập (ngày, tháng, năm)
+
+d. Tìm ngày kế ngày vừa nhập (ngày, tháng, năm

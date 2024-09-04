@@ -1,0 +1,12 @@
+Mảng là:
+
+Một kiểu dữ liệu có cấu trúc do người lập trình định nghĩa.
+Biểu diễn một dãy các biến có cùng kiểu. Ví dụ: dãy các số nguyên, dãy các ký tự…
+Kích thước được xác định ngay khi khai báo và không bao giờ thay đổi (mảng tĩnh).
+C/C++ luôn chỉ định một khối nhớ liên tục cho một biến kiểu mảng.
+
+Khai báo mảng: 
+<kiểu dữ liệu> <tên biến mảng>[<số phần tử>];
+– Chúng ta có thể khởi tạo giá trị cho mảng 1 chiều lúc khai báo
+– Gán dữ liệu và truy xuất dữ liệu vào các phần tử bên trong mảng.
+#include "stdio.h"

@@ -1,0 +1,20 @@
+Viết chương trình nhập vào tọa độ 3 đỉnh của tam giác ABC. Hãy thực hiện các yêu cầu sau đây:
+a, Kiểm tra 3 điểm A, B, C có tạo thành tam giác hay không?
+Nếu A, B, C tạo thành tam giác thì tiếp tục các yêu cầu dưới đây:
+b, Kiểm tra tam giác ABC có phải là tam giác cân hay không?
+c, Tính và xuất ra màn hình chu vi của tam giác ABC
+d, Tính và xuất ra man hình diện tích của tam giác ABC
+Tọa độ các điểm:
+A (xa, ya)
+B (xb, yb)
+C (xc, yc)
+Cách tính khoảng cách
+AB = sqrt(pow(xa-xb, 2) + pow(ya-ya, 2));
+BC = sqrt(pow(xb-xc, 2) + pow(yb-yc, 2));
+CA = sqrt(pow(xc-xa, 2) + pow(yc-ya, 2));
+Tạo thành giác : AB+BC > CA và AB+CA> BC và BC+CA>AB
+Tam giác cân: AB ==  BC || AB == CA || BC == CA
+Chu vi: AB + BC + CA
+Diện tích: công thức herong
+p = chuvi/2;
+s = sqrt(p*(p-AB)*(p-BC)*(p-CA));

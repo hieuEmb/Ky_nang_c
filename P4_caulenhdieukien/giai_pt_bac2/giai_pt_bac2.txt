@@ -1,0 +1,1 @@
+Viết chương trình cho nhập các hệ số của phương trình bậc nhất hai ax^2 + bx + c = 0, hãy in ra màn hình nghiệm của phương trình đã cho.

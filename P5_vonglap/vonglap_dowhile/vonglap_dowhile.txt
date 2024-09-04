@@ -1,0 +1,14 @@
+CÂU LỆNH: do…while
+do{ 
+statement 
+} while (expresion); 
+
+ 
+Sự hoạt động của vòng lặp:
+Bước 1: thực hiện khối lệnh sau do.
+Bước 2: kiểm tra giá trị biểu thức <biểu thức> sau while, nếu có giá trị ‘đúng’ ( khác 0) thì lặp lại bước 1, nếu ‘sai’ (=0) thì kết thúc vòng lặp.
+
+Ví dụ: 
+Viết chương trình hiển thị một menu sau đây lên màn hình:
+– Nhập số 0 để thoát.
+– Nhập bất kỳ ký tự nào khác để tiếp tục.

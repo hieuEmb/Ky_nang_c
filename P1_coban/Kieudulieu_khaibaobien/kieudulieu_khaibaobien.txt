@@ -1,0 +1,13 @@
+Giới thiệu về kiểu dữ liệu trong lập trình C
+Không có dữ liệu: void
+Ký tự: char
+Số nguyên:
+a, Có dấu: short, int (-32k → 32k), long (-2 tỷ → + 2 tỷ)
+b, Không dấu: unsigned short, unsigned int (0 → 65k) , unsigned long (0 → 4 tỷ)
+Số thực: float, double, long double
+
+Cách khai báo biến trong lập trình C
+
+tên_kiểu_dữ_liệu    tên_biến;
+
+hoặc tên_kiểu_dữ_liệu      tên_biến = giá trị;

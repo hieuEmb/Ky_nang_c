@@ -1,0 +1,10 @@
+Toán tử điều kiện
+Cấu trúc:
+bieu_thuc_1 ? bieu_thuc_2 : bieu_thuc_3;
+Ở đây, bieu_thuc_1, bieu_thuc_2 và bieu_thuc_3 là các biểu thức.
+Kết quả được quyết định như sau:
++ Nếu bieu_thuc_1 là True, thì bieu_thuc_2 được tính toán và trở thành giá trị của toàn bộ biểu thức ?
++ Ngược lại nếu bieu_thuc_1 là False, thì bieu_thuc_3 được tính toán và trở thành giá trị của toàn bộ biểu thức ?
+Ví dụ:
+x = (5>=3)?1:0; → x = 1
+y = (5<=3)?1:0; → y = 0

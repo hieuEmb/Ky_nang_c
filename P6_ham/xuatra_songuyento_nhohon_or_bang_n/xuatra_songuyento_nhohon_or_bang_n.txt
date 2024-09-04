@@ -1,0 +1,1 @@
+Viết chương trình lập trình c sử dụng hàm để nhập vào số n (n>1), xuất ra tất cả các số nguyên tố nhỏ hơn hoặc bằng n?

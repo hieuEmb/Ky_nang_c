@@ -1,0 +1,6 @@
+++ tăng lên một giá trị
+— giảm đi một giá trị
+a++  ↔ a = a+1     // giá trị của a thay đổi sau khi kết thúc câu lệnh
+++a  ↔ a = a+1 // giá trị của a thay đổi trước khi kết thúc câu lệnh
+b–  ↔ b = b-1     // giá trị của b thay đổi sau khi kết thúc câu lệnh
+–b  ↔ b = b-1     // giá trị của b thay đổi trước khi kết thúc câu lệnh

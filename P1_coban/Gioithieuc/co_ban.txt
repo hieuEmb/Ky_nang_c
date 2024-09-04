@@ -1,0 +1,16 @@
+Các thành phần trong chương trình lập trình C
+1. Chương trình C thường gồm có 3 phần:
+Phần 1: khai báo thư viện
+Phần 2: khai báo hằng, biến
+Phần 3: các hàm, phương thức
+
+2. Cách ghi chú trong lập trình C:
+// → Ghi chú trên 1 dòng
+/* */ → Ghi chú trên nhiều dòng
+
+3. Cách compile và chạy một chương trình trong Dev-C++
+Chọn menu: excute → compile & run
+hoặc nhấn nút F11
+
+4. Các câu lệnh thường được viết trên một dòng và kết thúc bằng dấu chấm phẩy
+

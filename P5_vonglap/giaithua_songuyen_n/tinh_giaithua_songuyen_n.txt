@@ -1,0 +1,1 @@
+Bài 1: Tính giai thừa số n (n>=0, n được nhập từ bàn phím).

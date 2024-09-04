@@ -1,0 +1,8 @@
++ Cộng hai toán hạng
+– Trừ hai toán hạng
+* Nhân hai toán hạng
+/ Chia lấy phần nguyên hai toán hạng
+% Chia lấy phần dư
+++ Tăng giá trị toán hạng thêm 1 đơn vị
+— Giảm giá trị toán hạng một đơn vị
+Lưu ý: phép toán ++ và – có thể đặt trước hoặc sau toán hạng.

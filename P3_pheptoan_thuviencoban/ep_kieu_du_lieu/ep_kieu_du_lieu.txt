@@ -1,0 +1,15 @@
+Cú pháp:    (type) value;  
+Loại 1: Nới rộng (widening) 
+short → int → long → float → double
+Là quá trình làm tròn số từ kiểu dữ liệu có kích thước nhỏ hơn sang kiểu có kích thước lớn hơn. Kiểu biến đổi này không làm mất thông tin. Ví dụ chuyển từ int sang float. Chuyển kiểu loại này có thế được thực hiện ngầm định bởi trình biên dịch. 
+Ví dụ: long x = 5;    // khong yeu cau chi dinh ep kieu
+
+     float y = x;   // khong yeu cau chi dinh ep kieu
+
+ Loại 2: Thu hẹp (narrowwing)
+double → float → long → int → short
+Là quá trình làm tròn số từ kiểu dữ liệu có kích thước lớn hơn sang kiểu có kích thước nhỏ hơn. Kiểu biến đổi này có thể làm mất thông tin như ví dụ ở trên. Chuyển kiểu loại này không thể thực hiện ngầm định bởi trình biên dịch, người dùng phải thực hiện chuyển kiểu tường minh. 
+Ví dụ: float x = 5.3;    // yeu cau chi dinh ep kieu
+
+     long y = (long)x;   // yeu cau chi dinh ep kieu
+y –> 5 (mất đi 0,3)

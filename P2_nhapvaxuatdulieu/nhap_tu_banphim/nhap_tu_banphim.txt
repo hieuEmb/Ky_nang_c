@@ -1,0 +1,9 @@
+Hàm scanf()
+Sử dụng thư viện: stdio.h → standard input output Sử dụng hàm scanf() → nhập dữ liệu từ bàn phím qua bảng điều khiển (console). Cú pháp của hàm scanf():
+scanf(“format string”, argument_address_list);
+địa chỉ của biến là: &tên_biến
+Format string có thể là:
+%d (số nguyên),
+%c (ký tự),
+%s (chuỗi),
+%f (float)

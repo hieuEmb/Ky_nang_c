@@ -1,0 +1,20 @@
+Trong bài này, chúng ta sẽ làm quen với cách xuất dữ liệu ra cửa sổ console.
+Sử dụng thư viện: stdio.h → standard input output Sử dụng hàm printf() → xuất dữ liệu ra bảng điều khiển (console). 
+Cú pháp của hàm printf():
+printf(“Format string”, Argument_list);
+
+Format string có thể là:
+
+%d (số nguyên)
+
+%c (ký tự)
+
+%s (chuỗi)
+
+%f (float)
+
+%.wf –> để hiện thị số thực ta sử dụng, trong đó w là một số tự nhiên và là số ký tự sau dấu chấm chúng ta cần, ví dụ: %.2f → Xuất ra một số thực, có phần sau dấu chấm chỉ lấy 2 chữ số.
+
+\n → xuống dòng
+
+Argument_list là tên biến hoặc giá trị của các nội dung cần xuất ra màn hình. Nếu có nhiều biến thì các biến sẽ được ngăn cách bởi dấu phẩy.

@@ -1,0 +1,5 @@
+Nhập vào mảng 1 chiều gồm n phần tử:
+
+Xuất các giá trị của mảng ra màn hình;
+
+Tính tổng các phần tử trong màn và xuất kết quả;

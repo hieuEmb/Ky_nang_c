@@ -1,0 +1,4 @@
+Toán tử logic là một toán tử trong C. Toán tử logic bao gồm các toán tử sau:
+Toán tử && → là toán tử AND, trả về true khi và chỉ khi tất cả các toán hạng đều đúng.
+Toán tử ||  → là toán tử OR, trả về true khi có ít nhất 1 toán hạng đúng.
+Toán tử !  → là toán tử NOT, phủ định giá trị của toán hạng.
